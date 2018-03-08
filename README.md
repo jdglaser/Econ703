@@ -1,2 +1,2 @@
 # Econ703
-Data and assignments for Econometrics
+Data and homework assignments for Econometrics
